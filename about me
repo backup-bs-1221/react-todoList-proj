@@ -1,0 +1,14 @@
+tutorial from https://www.youtube.com/watch?v=Rh3tobg7hEo&t=1580s
+=======================================================================
+new item 
+    cap letter for importing functions
+    .filter function
+    nested arrow function
+    function called from property 
+
+read later 
+    useEffect, hooks
+    localstorage.setItem
+        JSON.stringify
+
+    useState
